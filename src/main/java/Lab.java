@@ -25,7 +25,9 @@ public class Lab {
      */
     public boolean isEqual(int a, int b){
         if(a==b){
-            return true;
+            return true;   
+        }else{
+            return false;
         }
     }
 
